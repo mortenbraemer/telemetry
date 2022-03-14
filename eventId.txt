@@ -1,0 +1,2 @@
+| where timestamp > ago(1d)
+| extend eventId = tostring( customDimensions.eventId )
