@@ -1,0 +1,48 @@
+{
+    "value": [
+        {
+            "User_Name": "DEV",
+            "User_Telemetry_ID": "ba1c1cef-edca-4aa6-9b06-8c62971496be"
+        },
+        {
+            "User_Name": "BELLA",
+            "User_Telemetry_ID": "ac79f692-278d-43b9-9405-97c0ec84fb45"
+        },
+        {
+            "User_Name": "EVAN",
+            "User_Telemetry_ID": "2b196da8-9b29-4c46-8fbc-8751eded53b7"
+        },
+        {
+            "User_Name": "IVAN",
+            "User_Telemetry_ID": "b71ff9b9-ae42-4778-9056-8234d28b1ebb"
+        },
+        {
+            "User_Name": "JULIA",
+            "User_Telemetry_ID": "28ff2d93-62cc-4470-99b4-0cfe643caf6c"
+        },
+        {
+            "User_Name": "ALEX",
+            "User_Telemetry_ID": "61efaae3-5e16-4424-b5fd-aa585f86facd"
+        },
+        {
+            "User_Name": "GEORGE",
+            "User_Telemetry_ID": "22154f76-352c-44d6-983f-dc6ccaf61996"
+        },
+        {
+            "User_Name": "CHARLIE",
+            "User_Telemetry_ID": "5c459bfa-5871-407c-817c-2b9a430ce125"
+        },
+        {
+            "User_Name": "DANA",
+            "User_Telemetry_ID": "11c16275-a44c-4e64-9beb-6a00835439c3"
+        },
+        {
+            "User_Name": "FIONA",
+            "User_Telemetry_ID": "36fc3b9e-b471-4728-a9e5-ce0d90f15a5f"
+        },
+        {
+            "User_Name": "HANNAH",
+            "User_Telemetry_ID": "5589cef5-6f87-45b3-b491-4f1954489588"
+        }
+    ]
+}
